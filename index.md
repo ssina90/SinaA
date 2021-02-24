@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Visualising Data
 
 [GDP vs Life Expectancy (1960 - 2018)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
