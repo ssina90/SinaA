@@ -4,7 +4,7 @@
 
 ### Visualising Data
 
-[GDP vs Life Expectancy (1960 - 2018)](/sample_page)
+[GDP vs Life Expectancy (1960 - 2018)](index.webarchive)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
