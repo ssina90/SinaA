@@ -26,6 +26,7 @@ Currently Reading
 
 
 ![](51aqYc1QyrL._AC_SY400_.jpg)
+
 ![](41pP5+SAv-L._AC_SY400_.jpg)
 
 
