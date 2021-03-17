@@ -7,4 +7,4 @@ Our goal is to design a script in which it gathers news articles for a particula
 The project will have three parts to it, the first part is to create a web scrapper that gets and gathers articles on a particular stock, the second part will be where we use the articles that we find and perform sentiment analysis on them and lastly, the third part will be based on our results for part two, use that to buy or sell our shares. 
 
 ## Part 1: Gathering our articles 
-
+Firstly we need to scrap our articles from the internet. To do this we are using FinViz a website that shows stock data and is free which is easily accessible to users. We are concerned with indiviudal stocks thus we get the articles on a specific stock for a specific ticker. 
