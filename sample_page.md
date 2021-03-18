@@ -21,4 +21,10 @@ Now, this is the interesting part of our project, going through invidiual links 
 
 ## Part 2: Conducting Sentiment Analysis
 
-Now that we have all the data we need to conduct our Sentiment Analysis, we want to first store it in 
+Now that we have all the data we need to conduct our Sentiment Analysis, we first want store all our data in a dataframe using pandas, as it is easier and faster to work. Finally we can work on our Sentiment Analysis, we will have four coloumns based postive/negative and neutral polartiy as well as compound. The code in doing our Sentiment Analysis is very simple, we just apply a function from an imported library and use that to apply it to our articles. 
+
+![](/images/pic4.png)
+
+## Part 3: Visualising our Data to predict stock prices 
+
+
